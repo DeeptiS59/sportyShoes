@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="https://www.thymeleaf.org">
+    <head>
+        <title>Razorpay </title>
+    </head>
+    <body>
+        <div th:if="${param.error}">
+            Invalid payment information.
+        </div>
+        <div th:if="${param.logout}">
+            You have been logged out.
+        </div>
+ <h4> Payment Received</h4>
+ <p> Shoes will be delivered to your address in the next 7 working days. We hope you are as excited as we are!</p>
+</body>
+</html>

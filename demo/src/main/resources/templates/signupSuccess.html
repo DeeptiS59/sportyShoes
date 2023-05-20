@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org"
+      xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity3">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h3><marquee>Sign Up Success</marquee></h3>
+<a class="nav-link" sec:authorize="isAnonymous()" th:href="@{/login}" href="#">Login Here!</a>
+</body>
+</html>

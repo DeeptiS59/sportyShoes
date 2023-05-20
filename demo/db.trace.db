@@ -1,0 +1,84 @@
+2023-05-07 22:56:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id)) [42001-214]
+2023-05-07 22:57:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id)) [42001-214]
+2023-05-07 22:58:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id)) [42001-214]
+2023-05-07 22:59:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id)) [42001-214]
+2023-05-07 23:05:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id)) [42001-214]
+2023-05-07 23:11:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id)) [42001-214]
+2023-05-07 23:12:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id)) [42001-214]
+2023-05-07 23:13:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id)) [42001-214]
+2023-05-07 23:32:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id)) [42001-214]
+2023-05-07 23:34:32 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id)) [42001-214]
+2023-05-07 23:34:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id)) [42001-214]
+2023-05-07 23:39:32 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id)) [42001-214]
+2023-05-07 23:39:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id)) [42001-214]
+2023-05-07 23:40:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id)) [42001-214]
+2023-05-09 22:52:55 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id)) [42001-214]
+2023-05-09 22:58:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id)) [42001-214]
+2023-05-09 23:12:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id)) [42001-214]
+2023-05-09 23:26:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id)) [42001-214]
+2023-05-09 23:30:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id)) [42001-214]
+2023-05-09 23:33:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id)) [42001-214]
+2023-05-09 23:36:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id)) [42001-214]
+2023-05-10 00:05:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id)) [42001-214]
+2023-05-10 00:05:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id)) [42001-214]
+2023-05-10 00:06:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id)) [42001-214]
+2023-05-10 00:07:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id)) [42001-214]
+2023-05-10 00:10:47 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id integer not null, active boolean not null, password varchar(255), roles varchar(255), user_name varchar(255), primary key (id)) [42001-214]
+2023-05-10 00:13:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into [*]user (active, password, roles, user_name, id) values (?, ?, ?, ?, ?)"; expected "identifier"; SQL statement:
+insert into user (active, password, roles, user_name, id) values (?, ?, ?, ?, ?) [42001-214]
+2023-05-10 00:15:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into [*]user (active, password, roles, user_name, id) values (?, ?, ?, ?, ?)"; expected "identifier"; SQL statement:
+insert into user (active, password, roles, user_name, id) values (?, ?, ?, ?, ?) [42001-214]
